@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mugeish Kumar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Product+Engineer+at+DunUX;Fullstack+Developer+%7C+Hono+%26+Svelte+Expert;Java+%7C+Python+%7C+MongoDB+%7C+Postgres" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Product+Engineer+at+thisUX(Dun);Fullstack+Developer+%7C+Hono+%26+Svelte+Expert;Java+%7C+Python+%7C+MongoDB+%7C+Postgres" alt="Typing SVG" />
 </p>
 
 ---
