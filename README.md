@@ -1,19 +1,22 @@
 <h1 align="center">Hi there, I'm Mugeish Kumar 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Java+%7C+Python+%7C+C+Programmer;Passionate+Problem+Solver+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Product+Engineer+at+DunUX;Fullstack+Developer+%7C+Hono+%26+Svelte+Expert;Java+%7C+Python+%7C+MongoDB+%7C+Postgres" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate **Fullstack Developer** with a strong foundation in **Java**, along with proficiency in **Python** and **C**. I enjoy building fast, scalable web apps and solving complex coding challenges.
+I'm currently working as a **Product Engineer at DunUX**, where I focus on building fast, scalable, and modern full-stack web applications.
 
-- 🔭 I’m currently working on **full-stack web applications**
-- 🌱 Sharpening skills in **Cloud Technologies** & **DevOps**
-- 👯 Open to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, Python, C**, or **Fullstack Development**
+I’ve mastered **Hono.js** and **Svelte**, and I bring a strong foundation in backend engineering with **Java (Spring Boot)**, **Node.js**, and modern frontend development using **React** and **Svelte**.
+
+- 🛠 Currently building & scaling products @ **DunUX**
+- 💡 Mastered **Hono.js**, **SvelteKit**, and **Spring Boot**
+- 🌱 Exploring Cloud, DevOps, and scalable architectures
+- 💬 Ask me about **MERN Stack**, **Java**, **Hono.js**, or **PostgreSQL**
+- 🤝 Open to collaborations & open source contributions
 
 ---
 
@@ -29,6 +32,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in **Java**, 
 
 ### 🌐 Frontend
 <p>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -37,6 +41,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in **Java**, 
 
 ### 🔙 Backend
 <p>
+  <img src="https://img.shields.io/badge/Hono.js-000000?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
@@ -45,6 +50,7 @@ I am a passionate **Fullstack Developer** with a strong foundation in **Java**, 
 ### 🧠 Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
@@ -60,8 +66,6 @@ I am a passionate **Fullstack Developer** with a strong foundation in **Java**, 
 </p>
 
 ---
-
-
 
 ## 🔗 Connect with Me
 
